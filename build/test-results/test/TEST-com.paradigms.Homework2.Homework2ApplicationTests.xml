@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.paradigms.Homework2.Homework2ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-29T17:47:26" hostname="DESKTOP-H7942M9" time="2.757">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.paradigms.Homework2.Homework2ApplicationTests" time="2.757"/>
+  <system-out><![CDATA[18:47:20.198 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.paradigms.Homework2.Homework2ApplicationTests]: Homework2ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+18:47:20.543 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.paradigms.Homework2.Homework2Application for test class com.paradigms.Homework2.Homework2ApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.5)
+
+2023-10-29T18:47:21.774+01:00  INFO 14588 --- [    Test worker] c.p.Homework2.Homework2ApplicationTests  : Starting Homework2ApplicationTests using Java 19.0.1 with PID 14588 (started by Mes documents in C:\Users\Mes documents\Downloads\Homework2 (1)\Homework2)
+2023-10-29T18:47:21.779+01:00  INFO 14588 --- [    Test worker] c.p.Homework2.Homework2ApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2023-10-29T18:47:26.377+01:00  INFO 14588 --- [    Test worker] c.p.Homework2.Homework2ApplicationTests  : Started Homework2ApplicationTests in 5.316 seconds (process running for 9.451)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
